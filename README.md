@@ -3,3 +3,7 @@ The project aims to learn the Python language. Each directory is responsible for
 
 ## List of Created Programs
 * Coffe Machine Simulator (terminal application)
+* Spelling using the NATO alphabet (panda, terminal application)
+
+## List of Used Library During Education Process
+* Pandas
