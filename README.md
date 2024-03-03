@@ -10,9 +10,11 @@ The project aims to learn the Python language. Each directory is responsible for
 * Rain Alert (external API, SMS Gate)
 * Stock News (external API, SMS Gate)
 * Habit Tracker (external API)
+* What to watch - Top 100-movies (terminal application, web scraping)
 
 ## List of Used Library During Education Process
 * Pandas
 * Tkinter (window application)
 * requests
 * twilio (SMS Gate)
+* bs4 (web scraping)
