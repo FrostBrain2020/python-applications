@@ -7,7 +7,10 @@ The project aims to learn the Python language. Each directory is responsible for
 * Converter Mile to Kilometers (window application)
 * Pomodoro (window application)
 * Password Manager (window application)
+* Rain Alert (external API, SMS Gate)
 
 ## List of Used Library During Education Process
 * Pandas
 * Tkinter (window application)
+* requests
+* twilio (SMS Gate)
